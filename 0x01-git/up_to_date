@@ -1,1 +1,2 @@
-git merge
+git fetch origin main
+git merge origin main
